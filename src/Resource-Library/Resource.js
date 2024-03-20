@@ -22,27 +22,24 @@ function Resource() {
 
   return (
     <div className='resource-page'>
-<Box sx={{ width: '100%', p: 2 }}>
-  <Grid container columnSpacing={{ xs: 0, sm: 0, md: 0 }}>
-    <Grid item xs={12} lg={4} className="bg-[#3e4a6a] flex items-center justify-center">
-      <div>
-        <Typography align="center" variant="h4" className="pb-1 hidden sm:block" style={{ fontWeight: 'bold', color: 'white' }}>
-          Resource Library
-        </Typography>
-        <Typography align="center" variant="h6" className="pb-2 pt-3 sm:hidden" style={{ fontWeight: 'bold', color: 'white' }}>
-          Resource Library
-        </Typography>
-        <Typography align="center" className="pb-2" style={{ color: 'white' }}>Build your financial knowledge.</Typography>
-      </div>
-    </Grid>
-    <Grid item xs={0} lg={8} className="hidden lg:block">
-      <img src="https://mycreditunion.gov/sites/default/files/styles/banner_graphic_1600_/public/header-banner-images/fi-banner.png.webp?itok=zSHPDHfl" className="w-full h-auto" />
-    </Grid>
-  </Grid>
-</Box>
-
-
-
+      <Box sx={{ width: '100%', p: 2 }}>
+        <Grid container columnSpacing={{ xs: 0, sm: 0, md: 0 }}>
+          <Grid item xs={12} lg={4} className="bg-[#3e4a6a] flex items-center justify-center">
+            <div>
+              <Typography align="center" variant="h4" className="pb-1 hidden sm:block" style={{ fontWeight: 'bold', color: 'white' }}>
+                Resource Library
+              </Typography>
+              <Typography align="center" variant="h6" className="pb-2 pt-3 sm:hidden" style={{ fontWeight: 'bold', color: 'white' }}>
+                Resource Library
+              </Typography>
+              <Typography align="center" className="pb-2" style={{ color: 'white' }}>Build your financial knowledge.</Typography>
+            </div>
+          </Grid>
+          <Grid item xs={0} lg={8} className="hidden lg:block">
+            <img src="https://mycreditunion.gov/sites/default/files/styles/banner_graphic_1600_/public/header-banner-images/fi-banner.png.webp?itok=zSHPDHfl" className="w-full h-auto" />
+          </Grid>
+        </Grid>
+      </Box>
       <Divider />
 
       <div className="container mx-auto p-0 sm:p-6 sm:pt-3">
