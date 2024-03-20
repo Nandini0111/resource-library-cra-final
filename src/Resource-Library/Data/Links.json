@@ -1,0 +1,358 @@
+{
+    "Digital assets and NFTS": [
+      {
+        "id": 1,
+        "title": "Digital Assets: Explained",
+        "description": "Uncover the fundamentals of digital assets and their place in the modern economy.",
+        "image": "https://img.freepik.com/free-photo/cardano-blockchain-platform-with-laptop_23-2150278285.jpg?t=st=1710595948~exp=1710599548~hmac=b432c9d6cc3b1d329e3571133e565e7bdc46391bfd145400db1b57d1c0eaee4f&w=900",
+        "url": "https://www.investopedia.com/terms/d/digital-asset-framework.asp"
+      },
+      {
+        "id": 2,
+        "title": "NFTs: A Simple Guide",
+        "description": "Demystify NFTs and learn how they prove ownership in the digital space.",
+        "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2021/05/98438444.jpeg?auto=format&q=60&w=1280&h=960&fit=crop&crop=faces",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/understanding-nfts-a-beginners-guide-to-non-fungible-tokens/articleshow/107420419.cms?from=mdr"
+      },
+      {
+        "id": 3,
+        "title": "NFT Investing Strategies",
+        "description": "Explore strategies for buying and selling NFTs, with tips for informed decision-making.",
+        "image": "https://pixelplex.io/wp-content/uploads/2022/03/why-invest-in-nfts-meta.jpg",
+        "url": "https://nftmetria.com/invest-nft/nft-invest-strategy/"
+      },
+      {
+        "id": 4,
+        "title": "Digital Assets: Buy or Sell?",
+        "description": "Gain insights into when to buy or sell digital assets within a volatile market.",
+        "image": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1293494%2Fregular_1708x683_Untitled-284f9f2b6a03cc6f84c9609c13159565.png",
+        "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/should-you-include-digital-assets-in-your-portfolio-in-2024/articleshow/108230873.cms?from=mdr"
+      },
+      {
+        "id": 5,
+        "title": "The Future of Ownership: NFTs",
+        "description": "Discover how NFTs are revolutionizing how we define and trade ownership.",
+        "image": "https://fortyseven47.com/storage/2023/06/Exploring-the-Future-of-Digital-Ownership-1024x576.jpeg",
+        "url": "https://www.linkedin.com/pulse/nfts-digital-ownership-future-assets-s3b-global-tfvxf/"
+      },
+      {
+        "id": 6,
+        "title": "Real-World NFT Applications",
+        "description": "Explore practical use cases of NFTs beyond digital art and collectibles.",
+        "image": "https://www.mxicoders.com/wp-content/uploads/2024/01/Navigating-the-NFT-Revolution.jpg",
+        "url": "https://blockworks.co/news/7-nft-use-cases"
+      },
+      {
+        "id": 7,
+        "title": "Digital Assets: Beyond the Buzz",
+        "description": "Dive deeper into the potential and challenges of digital assets in various industries.",
+        "image": "https://img.phemex.com/v1/632f45da-large/cryptopunks-1024x573.png",
+        "url": "https://www.linkedin.com/pulse/beyond-buzz-real-insights-fintechs-technological-evolution-fzfme/?trk=article-ssr-frontend-pulse_more-articles_related-content-card"
+      }
+    ],
+    "Stocks": [
+      {
+        "id": 1,
+        "title": "Stocks 101: Your Guide",
+        "description": "Understand the basics of stocks, the stock market, and how to get started.",
+        "image": "https://img.freepik.com/free-photo/stock-market-results-stock-trade-forex-shares-concept_53876-127803.jpg?t=st=1710596649~exp=1710600249~hmac=b58b10cfadde7a99503482b31facf780077a5dfafd44e272870c846c770aed7b&w=826",
+        "url": "https://www.investopedia.com/articles/basics/06/invest1000.asp"
+      },
+      {
+        "id": 2,
+        "title": "Decoding Stock Market Terms",
+        "description": "Demystify common stock market jargon for clearer investing decisions.",
+        "image": "https://qph.cf2.quoracdn.net/main-qimg-8c870d87e11701fb875cc163c1d7c54d-pjlq",
+        "url": "https://zerodha.com/varsity/chapter/commonly-used-jargons/"
+      },
+      {
+        "id": 3,
+        "title": "Long-Term Investing Strategies",
+        "description": "Discover time-tested approaches for building wealth through stocks.",
+        "image": "https://getmoneyrich.com/wp-content/uploads/2010/04/Long-Term-Investment-IMAGE.png",
+        "url": "https://www.forbes.com/advisor/in/investing/tips-for-long-term-investing/"
+      },
+      {
+        "id": 4,
+        "title": "Analyzing Stocks for Profit",
+        "description": "Learn how to evaluate a company's stock before investing.",
+        "image": "https://www.fisdom.com/wp-content/uploads/2022/08/Shutterstock_1669591111-1.jpg",
+        "url": "https://www.investopedia.com/terms/s/stock-analysis.asp"
+      },
+      {
+        "id": 5,
+        "title": "Dividend Stocks for Income",
+        "description": "Learn about stocks that pay regular dividends and how they generate passive income.",
+        "image": "https://tradebrains.in/wp-content/uploads/2023/06/Best-Dividend-Stocks-Under-Rs-100-Cover-Image.jpg",
+        "url": "https://www.indmoney.com/stocks/category/dividend-stocks"
+      },
+      {
+        "id": 6,
+        "title": "Stocks vs. Bonds: Differences",
+        "description": "Understand the distinctions between stocks and bonds for informed investing choices.",
+        "image": "https://www.forbes.com/advisor/wp-content/uploads/2023/03/Stocks_vs_Bonds.jpg",
+        "url": "https://groww.in/p/difference-between-bonds-and-stocks"
+      }
+    ],
+    "Financial tools": [
+      {
+        "id": 1,
+        "title": "Financial Tools for Freedom",
+        "description": "Discover tools that streamline your finances and put you on the path to financial independence.",
+        "image": "https://protium.co.in/wp-content/uploads/2023/09/What-is-F.I.R.E-The-New-Movement-of-the-Millennials.png",
+        "url": "https://greatness.com/tools-to-kickstart-your-financial-freedom/"
+      },
+      {
+        "id": 2,
+        "title": "Your Financial Wellness Toolkit",
+        "description": "Explore the essential tools and strategies for improving your overall financial health.",
+        "image": "https://img.freepik.com/premium-photo/unlocking-financial-potential-comprehensive-guide-money-management-investment-wealth-growth_839035-555670.jpg",
+        "url": "https://news.hr.ncsu.edu/2021/03/financial-wellness-toolkit-ways-to-improve-your-finances/"
+      },
+      {
+        "id": 3,
+        "title": "Unlocking Your Financial Potential",
+        "description": "Learn how to leverage powerful financial tools to maximize your earning and saving capabilities.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLYpV0YHiLZxQsFKpZohtUR3piIIaA2YmcA&usqp=CAU",
+        "url": "https://medium.com/@krishsunil222/unlock-your-financial-potential-top-10-ways-to-make-money-and-transform-your-wealth-4defdcd1f77f"
+      }
+    ],
+    "budgeting": [
+      {
+        "id": 1,
+        "title": "Budgeting Basics",
+        "description": "Learn the basics of creating and sticking to a budget.",
+        "image": "https://info.huecu.org/hubfs/bb_news%20post.png",
+        "url": "https://www.unfcu.org/financial-wellness/50-30-20-rule/"
+      },
+      {
+        "id": 2,
+        "title": "Master Your Money Mindset",
+        "description": "Discover how your money beliefs impact your budget and how to make positive changes.",
+        "image": "https://janetkodish.com/wp-content/uploads/2018/07/rawpixel-570908-unsplash.jpg",
+        "url": "https://medium.com/@jan.barley1/master-your-money-mindset-dc19723ebe8b"
+      },
+      {
+        "id": 3,
+        "title": "Envelope Budgeting Demystified",
+        "description": "Learn this effective method (sometimes using cash!) for controlling spending.",
+        "image": "https://dollarsprout.com/wp-content/uploads/2020/02/envelope-system-for-budgeting.png",
+        "url": "https://www.debt.org/advice/dave-ramseys-envelope-system-explained/"
+      },
+      {
+        "id": 4,
+        "title": "Debt-Free Budgeting Strategies",
+        "description": "Gain tools for budgeting while aggressively paying down debt.",
+        "image": "https://media.licdn.com/dms/image/C5612AQEy2g2KX9Sgmw/article-inline_image-shrink_1000_1488/0/1567505596758?e=1714608000&v=beta&t=l-2QOEIKr-DgevDzCy7U18PZPF-7WchPdXjYKc0GpJs",
+        "url": "https://www.forbes.com/advisor/debt-relief/debt-free-in-a-year-steps-and-strategies/"
+      }
+    ],
+    "Cryptocurrency": [
+      {
+        "id": 1,
+        "title": "Cryptocurrency: A Beginner's Guide",
+        "description": "Learn the fundamentals of cryptocurrency, blockchain, and key concepts.",
+        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/what_is_the_difference_between_blockchain_and_bitcoin-sixteen_nine.png?size=948:533",
+        "url": "https://www.coinbase.com/en-gb/learn/crypto-basics"
+      },
+      {
+        "id": 2,
+        "title": "Beyond Bitcoin: Other Cryptos",
+        "description": "Explore the diverse world of cryptocurrencies beyond the most well-known ones.",
+        "image": "https://bitpay.com/blog/content/images/size/w2000/2022/11/bitcoin-alternatives.png",
+        "url": "https://www.investopedia.com/tech/most-important-cryptocurrencies-other-than-bitcoin/"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Cryptocurrency",
+        "description": "Learn the fundamentals of cryptocurrency, blockchain, and key concepts.",
+        "image": "https://pandatechie.in/wp-content/uploads/2022/08/crypto-globe.jpeg",
+        "url": "https://www.forbes.com/advisor/investing/cryptocurrency/crypto-market-outlook-forecast/"
+      },
+      {
+        "id": 4,
+        "title": "Cryptocurrency Regulation: Explained",
+        "description": "Understand the evolving regulatory landscape surrounding cryptocurrency.",
+        "image": "https://www.dbs.com/blockchain/uploads/article06-main.jpg",
+        "url": "https://www.investopedia.com/cryptocurrency-regulations-around-the-world-5202122"
+      },
+      {
+        "id": 5,
+        "title": "Crypto Investing Strategies",
+        "description": "Discover different approaches to investing in cryptocurrency and managing risk.",
+        "image": "https://mudrex.com/learn/wp-content/uploads/2022/05/Best-Cryptocurrency-Investment-Strategies-For-Investors-in-2022-1.png",
+        "url": "https://www.moneycontrol.com/msite/wazirx-cryptocontrol-articles/crypto-trading-strategies-you-need-to-know/"
+      },
+      {
+        "id": 6,
+        "title": "Cryptocurrency Security",
+        "description": "Learn essential steps to protect your cryptocurrency investments.",
+        "image": "https://bitpay.com/blog/content/images/size/w2000/2022/07/crypto-security-from-bitpay.png",
+        "url": "https://www.techopedia.com/cryptocurrency-security-best-practices-for-keeping-digital-assets-safe"
+      }
+    ],
+    "Cybersecurity in Finance": [
+      {
+        "id": 1,
+        "title": "Banking Cybersecurity Threats",
+        "description": "Explore the unique cybersecurity challenges faced by the banking industry.",
+        "image": "https://www.alert-software.com/hubfs/cybersecurity%20in%20banking.png#keepProtocol",
+        "url": "https://www.knowledgehut.com/blog/security/cyber-security-in-banking"
+      },
+      {
+        "id": 2,
+        "title": "Protecting Investment Platforms",
+        "description": "Learn about security measures essential for safeguarding online investment platforms.",
+        "image": "https://media.licdn.com/dms/image/D4D10AQFt-93x7AMeyg/image-shrink_800/0/1692997738610/Morphisec-NewBranding28png?e=2147483647&v=beta&t=Q_bUZ7G_S8Mpyhe-bwfkwOWM4lBwutbrNBcPvtP6Zqw",
+        "url": "https://www.indiainfoline.com/knowledge-center/trading-account/how-to-secure-your-trading-account"
+      },
+      {
+        "id": 3,
+        "title": "Phishing Attacks: Finance Focus",
+        "description": "Identify and avoid phishing scams specifically targeting financial information.",
+        "image": "https://www.ncsc.gov.uk/images/Artboard%205.png?mpwidth=545&mlwidth=737&twidth=961&dwidth=635&dpr=2.625&width=412",
+        "url": "https://www.phishingbox.com/news/post/ongoing-battle-against-phishing-attacks-financial-services-sector"
+      },
+      {
+        "id": 4,
+        "title": "Data Encryption in Finance",
+        "description": "Understand the importance of data encryption in protecting sensitive financial records.",
+        "image": "https://static.endpointprotector.com/blog/2023/02/blog-Five-key-benefits-of-data-encryption-for-security1200x628px-en.jpg",
+        "url": "https://apricorn.com/data-encryption-in-finance"
+      },
+      {
+        "id": 5,
+        "title": "Emerging Cybersecurity Threats",
+        "description": "Examine the latest cybersecurity risks in the finance sector and how to stay ahead of them.",
+        "image": "https://www.4-secure.com/wp-content/uploads/2024/01/ver15.png",
+        "url": "https://www.thesagenext.com/blog/emerging-cybersecurity-challenges"
+      }
+    ],
+    "Debt Management": [
+      {
+        "id": 1,
+        "title": "Debt Snowball vs. Avalanche",
+        "description": "Compare two popular debt repayment strategies for choosing the best fit.",
+        "image": "https://www.debt.org/wp-content/uploads/2019/05/debt-avalanche.jpg",
+        "url": "https://www.investopedia.com/articles/personal-finance/080716/debt-avalanche-vs-debt-snowball-which-best-you.asp"
+      },
+      {
+        "id": 2,
+        "title": "Conquering Credit Card Debt",
+        "description": "Learn actionable strategies for tackling high-interest credit card debt effectively.",
+        "image": "https://s3-ap-south-1.amazonaws.com/oasys-image/public/images/63748d7476df710ee80ea2f-freed_website.jpg",
+        "url": "https://www.nerdwallet.com/article/finance/credit-card-debt"
+      },
+      {
+        "id": 3,
+        "title": "Debt Consolidation Explained",
+        "description": "Understand the pros, cons, and process of consolidating debt.",
+        "image": "https://www.credello.com/wp-content/uploads/2021/12/What-is-Debt-consolidation-840x526.png",
+        "url": "https://economictimes.indiatimes.com/defaultinterstitial.cms"
+      },
+      {
+        "id": 4,
+        "title": "Your Debt Repayment Plan",
+        "description": "Create a step-by-step plan to achieve your debt-free goals.",
+        "image": "https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/b/f/bf1d8278aec0cad479211223f18e95dd5a7dcfcdf0f6d8f447fcdd5838310a48/debt-repayment-plan-slide1.png",
+        "url": "https://www.creditmantri.com/article-how-to-set-up-a-debt-repayment-plan/"
+      },
+      {
+        "id": 5,
+        "title": "Life After Debt Freedom",
+        "description": "Discover how to build lasting financial stability once you're debt-free.",
+        "image": "https://www.onedebt.co.za/wp-content/uploads/2015/09/life-after-debt.jpg",
+        "url": "https://www.cnbc.com/select/being-debt-free-and-how-it-impacts-life/"
+      },
+      {
+        "id": 6,
+        "title": "Debt Management Tools",
+        "description": "Explore helpful budgeting apps and resources to assist in your debt-management journey.",
+        "image": "https://www.financestrategists.com/uploads/Tools__Techniques_for_Effective_Debt_Management_1.png",
+        "url": "https://startupstash.com/business-debt-management-tools/"
+      }
+    ],
+    "savings": [
+      {
+        "id": 1,
+        "title": "The Power of Automation",
+        "description": "Learn how to set up automatic savings for effortless progress.",
+        "image": "https://internationalfinance.com/wp-content/uploads/2017/07/IMG_5961-960x680.jpg",
+        "url": "https://fastercapital.com/topics/making-saving-effortless-and-automatic.html"
+      },
+      {
+        "id": 2,
+        "title": "Emergency Fund Essentials",
+        "description": "Build a financial safety net with a well-funded emergency fund.",
+        "image": "https://www.maxlifeinsurance.com/content/dam/neo/On%20Page%20Emergency%20Fund.jpg",
+        "url": "https://protium.co.in/emergency-fund/"
+      },
+      {
+        "id": 3,
+        "title": "The Magic of Savings",
+        "description": "Explore the transformative power of saving on your finances and life.",
+        "image": "https://miro.medium.com/v2/resize:fit:1024/1*JoJpgkgIl95P41vHd00dSg.jpeg",
+        "url": "https://www.linkedin.com/pulse/magic-savings-investing-1-you-letting-your-eating-away-vijayvergia/"
+      },
+      {
+        "id": 4,
+        "title": "Smart Savings Strategies",
+        "description": "Explore effective techniques to save money consistently and reach your goals.",
+        "image": "https://factbites.com/wp-content/uploads/2023/07/Smart-Saving-Strategies.jpg",
+        "url": "https://www.businessinsider.in/personal-finance/how-to-save-money?r=US&IR=T"
+      }
+    ],
+    "estate planning": [
+      {
+        "id": 1,
+        "title": "Wills vs. Trusts Explained",
+        "description": "Understand the differences and when to use each for your estate plan.",
+        "image": "https://www.eaels.com/content/images/blog/wills-trusts-500x281.png",
+        "url": "https://www.investopedia.com/articles/personal-finance/051315/will-vs-trust-difference-between-two.asp"
+      },
+      {
+        "id": 2,
+        "title": "Estate Planning for Businesses",
+        "description": "Learn how to protect your business assets and ensure smooth transitions.",
+        "image": "https://media.licdn.com/dms/image/D4D12AQH-BtZGVpSdlA/article-cover_image-shrink_600_2000/0/1681981742336?e=2147483647&v=beta&t=fhacvVy9wYaX1semjGl5W303XVZAUSr56aLwWzLRG1Y",
+        "url": "https://trustandwill.com/learn/estate-planning-for-business-owners"
+      },
+      {
+        "id": 3,
+        "title": "Minimizing Estate Taxes",
+        "description": "Explore strategies to reduce the tax burden on your heirs.",
+        "image": "https://www.investopedia.com/thmb/ePy_1g7DZzlwmZXkkIOtO9P2q9k=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/estate-tax-exemption-2021-definition-5114715-final-b76b790839b8411db1f967c82ef4b281.png",
+        "url": "https://www.investopedia.com/articles/personal-finance/120715/estate-taxes-who-pays-what-and-how-much.asp"
+      }
+    ],
+    "retirement planning": [
+      {
+        "id": 1,
+        "title": "Investing Throughout Retirement",
+        "description": "Discover how to manage your investments even after you stop working.",
+        "image": "https://premium.capitalmind.in/wp-content/uploads/2022/06/Pension.jpg",
+        "url": "https://www.investopedia.com/articles/personal-finance/111313/six-critical-rules-successful-retirement-investing.asp"
+      },
+      {
+        "id": 2,
+        "title": "Controlling Inflation's Impact",
+        "description": "Understand how inflation affects retirement savings and how to adjust your plan.",
+        "image": "https://static.vecteezy.com/system/resources/previews/008/089/035/original/controlling-inflation-monetary-policy-to-reduce-inflation-or-keep-costs-or-expenses-lower-to-maintain-financial-stability-a-businessman-tries-to-keep-the-dollar-balloon-from-flying-into-the-sky-vector.jpg",
+        "url": "https://www.investopedia.com/terms/i/inflation.asp"
+      },
+      {
+        "id": 3,
+        "title": "Smart Withdrawal Strategies",
+        "description": "Determine how to withdraw money from retirement accounts in a tax-efficient manner.",
+        "image": "https://rgvisionmagazine.com/wp-content/uploads/2017/03/foursmart.jpg",
+        "url": "https://www.bankrate.com/retirement/ways-to-withdraw-retirement-funds/"
+      },
+      {
+        "id": 4,
+        "title": "Maximizing Retirement Income",
+        "description": "Learn strategies to boost income sources and make savings last throughout retirement.",
+        "image": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/category-page/newtermplan/HDFC-0094-Retirement-Planning_Banner.png",
+        "url": "https://www.tiaa.org/public/learn/retirement-planning-and-beyond/ways-to-maximize-your-retirement-income"
+      }
+    ]
+  }
