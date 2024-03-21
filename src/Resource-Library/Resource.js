@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import ResourceTab from './ResourceTab';
+import axios from 'axios';
 import ResourceCard from './ResourceCard';
-import resources from './Data/Links.json';
 import { Typography } from "@mui/material";
 import Divider from '@mui/material/Divider';
 import Box from '@mui/material/Box';
@@ -12,13 +12,32 @@ function Resource() {
   const [searchTerm, setSearchTerm] = useState('');
   const [activeCategory, setActiveCategory] = useState('Digital assets and NFTS');
 
+  const [resources, setResources] = useState({});
+
+  useEffect(() => {
+    const fetchResources = async () => {
+      try {
+        const response = await axios.get('http://localhost:5000/api/data/resources');
+        setResources(response.data);
+
+        const categories = Object.keys(response.data);
+        if (!categories.includes(activeCategory)) {
+          setActiveCategory(categories[0]);
+        }
+      } catch (error) {
+        console.error('Error fetching resources:', error);
+      }
+    };
+
+    fetchResources();
+  }, []);
+  const filteredResources = resources[activeCategory] ? resources[activeCategory].filter((resource) =>
+    resource.title.toLowerCase().includes(searchTerm.toLowerCase())
+  ) : [];
+
   const handleCategoryChange = (category) => {
     setActiveCategory(category);
   };
-
-  const filteredResources = resources[activeCategory].filter((resource) =>
-    resource.title.toLowerCase().includes(searchTerm.toLowerCase())
-  );
 
   return (
     <div className='resource-page'>

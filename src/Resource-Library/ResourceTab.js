@@ -6,32 +6,22 @@ import Box from '@mui/material/Box';
 import axios from 'axios';
 
 export default function ResourceTab({ onCategoryChange }) {
-  const [value, setValue] = React.useState(0);
+  const [value, setValue] = useState(0);
   const [resources, setResources] = useState({});
 
   useEffect(() => {
-    const fetchResources = async () => {
+    const fetchData = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/api/data/resource');
-        if (response.data.length > 0 && response.data[0].resource && response.data[0].resource.length > 0) {
-          const resourcesData = response.data[0].resource[0];
-          const fetchedResources = { ...resourcesData };
-          setResources(fetchedResources);
-
-          if (Object.keys(fetchedResources).length > 0) {
-            const firstCategory = Object.keys(fetchedResources)[0];
-            onCategoryChange(firstCategory);
-          }
-        } else {
-          console.error('No resources found');
-        }
+        // Replace 'http://localhost:5000/api/data/resources' with your actual API endpoint
+        const response = await axios.get('http://localhost:5000/api/data/resources');
+        setResources(response.data);
       } catch (error) {
-        console.error('Error fetching resources:', error);
+        console.error('There was an error fetching the resources data:', error);
       }
     };
 
-    fetchResources();
-  }, [onCategoryChange]);
+    fetchData();
+  }, []);
 
   const categories = Object.keys(resources);
   const handleChange = (event, newValue) => {
